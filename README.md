@@ -1,2 +1,2 @@
 # learnCode
-My Public repo and Code Journey.
+My Public repo and Coding Journey.
